@@ -80,4 +80,6 @@ Once you've completed and tested your app:
 Dive into game development with this project. Enjoy learning, applying your knowledge, and overcoming challenges along the way! You're welcome to take this project to the next level and deploy to Netlify after you have submitted. 
 
 
-
+# Created a Firebase realtime database
+# Linked the database to the web app
+# Turned the web app into a mobile app
